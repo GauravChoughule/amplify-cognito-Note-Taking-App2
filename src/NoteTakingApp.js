@@ -19,11 +19,11 @@ function NoteTakingApp() {
 
   return (
     <div className="note-taking-app">
-      <h2>Note Taking App</h2>
+      <h2>Memopad Platform</h2>
       <div className="note-form">
         <input
           type="text"
-          placeholder="Write a note..."
+          placeholder="Write a thought, poem, caption..."
           value={inputText}
           onChange={(e) => setInputText(e.target.value)}
         />
