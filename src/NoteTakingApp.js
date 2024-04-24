@@ -19,7 +19,7 @@ function NoteTakingApp() {
 
   return (
     <div className="note-taking-app">
-      <h2>Memopad Platform</h2>
+      <h2>Memopad Platform 1</h2>
       <div className="note-form">
         <input
           type="text"
